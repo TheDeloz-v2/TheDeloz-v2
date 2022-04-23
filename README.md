@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ### Datos Interesantes:
   ### 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deloz09)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=TheDeloz-v2&theme=city_lights&show_icons=true&count_private=true&hide=prs,issues) 
 <br>
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deloz09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDeloz-v2&layout=compact&theme=city_lights&langs_count=10)
 <br>
   <br>
-![Visitor Count](https://profile-counter.glitch.me/{Deloz09}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{TheDeloz-v2}/count.svg)
