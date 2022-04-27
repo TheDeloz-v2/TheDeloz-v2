@@ -12,9 +12,10 @@
   <img src="https://img.shields.io/badge/TheDeloz-v2%20-%239146FF.svg?&style=for-the-badge&logo=Github&logoColor=white"/> 
   </a>
   <a href="https://www.instagram.com/diegolemus._/">
+  <img src="https://img.shields.io/badge/diegolemus.__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
   <a href="https://www.youtube.com/channel/UCPwlB-Q1vGa1KOw5kLyEISA">
-  <img src="https://img.shields.io/badge/The Deloz%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/> <img src="https://img.shields.io/badge/diegolemus.__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/The Deloz%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/> 
   </a>
   <a href="https://open.spotify.com/user/31cu4khonp4pltzzhzrx6bgwqev4?si=-wpWlLypS4mNMD04xzUmNA">
   <img src= "https://img.shields.io/badge/Diego Lemus-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
